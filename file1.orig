@@ -1,0 +1,12 @@
+This is a tets change
+<<<<<<< HEAD
+This is a tets change
+This is a tets change
+This is a tets change
+This is a tets change
+This is a tets change
+This is a tets change
+This is a tets change
+=======
+This will create a merge conflict
+>>>>>>> 8d9941e (merge conflict)
